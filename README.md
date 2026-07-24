@@ -19,7 +19,7 @@ oportunidades de mejora en rentabilidad.
 ## Vista previa
 
 ### Dashboard Ejecutivo
-![Ejecutivo](imagenes/pagina1-ejecutivo.png)
+![Ejecutivo](imagenes/Página-1-Dashboard-Ejecutivo.png)
 *KPIs generales, tendencia de ventas mensual y desempeño por categoría/región*
 
 ### Análisis de Productos
