@@ -4,6 +4,12 @@ Dashboard ejecutivo multi-página construido en Power BI, analizando
 el dataset público "Superstore" de Kaggle (9,994 registros de ventas 
 retail en EE.UU., 2014-2017).
 
+> **Nota:** Este es un proyecto personal de práctica, desarrollado 
+> con fines de aprendizaje en Power BI y análisis de datos (Power Query, 
+> DAX y diseño de dashboards). No representa un proyecto profesional 
+> ni cuenta con datos reales de una empresa — el dataset es público 
+> y de uso educativo.
+
 ## Objetivo
 Analizar ventas, ganancias y comportamiento de clientes para identificar 
 oportunidades de mejora en rentabilidad.
