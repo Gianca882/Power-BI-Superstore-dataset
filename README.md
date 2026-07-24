@@ -23,11 +23,11 @@ oportunidades de mejora en rentabilidad.
 *KPIs generales, tendencia de ventas mensual y desempeño por categoría/región*
 
 ### Análisis de Productos
-![Productos](pagina2-productos.png)
+![Análisis de Productos](Página%202%20-%20Análisis%20de%20Productos.png)
 *Identificación de productos rentables vs. productos con pérdidas*
 
 ### Tendencias
-![Tendencias](imagenes/pagina5-tendencias.png)
+![Tendencias](Página%205%20-%20Tendencias.png)
 *Evolución de ventas, ganancia y pedidos a lo largo del tiempo*
 
 
