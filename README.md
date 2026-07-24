@@ -16,6 +16,21 @@ oportunidades de mejora en rentabilidad.
 5. **Tendencias** — Evolución de ventas y profit por año/trimestre/mes
 6. **Descuentos** — Impacto del descuento en ventas y rentabilidad
 
+## Vista previa
+
+### Dashboard Ejecutivo
+![Ejecutivo](imagenes/pagina1-ejecutivo.png)
+*KPIs generales, tendencia de ventas mensual y desempeño por categoría/región*
+
+### Análisis de Productos
+![Productos](imagenes/pagina2-productos.png)
+*Identificación de productos rentables vs. productos con pérdidas*
+
+### Tendencias
+![Tendencias](imagenes/pagina5-tendencias.png)
+*Evolución de ventas, ganancia y pedidos a lo largo del tiempo*
+
+
 ## Insights clave
 - El margen de ganancia real es ~12.5% (validado contra el dataset original)
 - A mayor descuento (>20%), la ganancia cae drásticamente e incluso 
